@@ -1,0 +1,3 @@
+step,object,x,y,zoom,page,question,answer,layer1_button,layer1_content,layer2_button,layer2_content
+1,audience-de-guadalajara,0.30493067835959986,0.44456463497228926,13.684136858475897,1,Where is UCSB,Roughly here!,,,Go deeper,ucsb-go-deeper.md
+2,map,0.6238907265807602,0.5848911140720885,2.583664459161148,1,What did it look like in 1963?,Like this!,,,,
