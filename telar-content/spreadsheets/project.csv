@@ -1,2 +1,2 @@
-order,story_id,title,subtitle,byline,private
-2,ucsb,UCSB,Subtitle,Me,
+order,story_id,title,subtitle,byline,private,show_sections
+2,ucsb,UCSB,Subtitle,Me,,
